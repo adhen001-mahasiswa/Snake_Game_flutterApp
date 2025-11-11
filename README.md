@@ -1,16 +1,11 @@
 # snake_game
 
-A new Flutter project.
+Projek UTS MOBILE PROGRAMMING 2
 
-## Getting Started
+## LINK DRIVE
+https://drive.google.com/drive/folders/1fb9kqqZn_DnmEhq9LWQecId_pNqmfVGE?hl=ID
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/ec964ccf-097d-409b-915f-bd6a736593f4" />
