@@ -1,6 +1,10 @@
 # snake_game
 
 Projek UTS MOBILE PROGRAMMING 2
+SNAKE GAME APP SIMPLE
+---with grid view
+---animation in 1 widget
+---custom widget
 
 ## LINK DRIVE
 https://drive.google.com/drive/folders/1fb9kqqZn_DnmEhq9LWQecId_pNqmfVGE?hl=ID
