@@ -6,6 +6,8 @@ SNAKE GAME APP SIMPLE
 ---animation in 1 widget
 ---custom widget
 
+#KELOMPOK -muhamad soleh - dzikir -silvia
+
 ## LINK DRIVE
 https://drive.google.com/drive/folders/1fb9kqqZn_DnmEhq9LWQecId_pNqmfVGE?hl=ID
 
